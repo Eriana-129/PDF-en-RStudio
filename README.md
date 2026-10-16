@@ -20,6 +20,11 @@ library(pdftools) #para cargar el paquete
 
 Para descargar [Ghostscript](https://ghostscript.com/releases/gsdnld.html)
 
+## Licencia
+
+El texto de esta guía está bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
+El código está bajo la [licencia MIT](LICENSE).
+
 ## Referencias
 -  Artifex Software. (2026). Ghostscript (Versión 10.08.0) [Software]. https://www.ghostscript.com
 -  Ooms, J. (2025). qpdf: Split, Combine and Compress PDF Files (Versión 1.4.1) [Software]. https://doi.org/10.32614/CRAN.package.qpdf
