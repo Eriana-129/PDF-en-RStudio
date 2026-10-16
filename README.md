@@ -1,6 +1,8 @@
 # PDF-en-RStudio
 Una guía para el uso de archivos pdf en RStudio, usando las paqueterías qpdf (Ooms, 2025) y pdftools (Ooms, 2026), con Ghostscript.
 
+https://eriana-129.github.io/PDF-en-RStudio/guia_uso_pdf_en_R.html
+
 ## Origen de esta Guía
 
 **¿Por qué necesitamos un editor más de PDF?** Estoy de acuerdo en que ya existe ilovepdf (que es la principal herramienta de uso común hoy en día), CamScanner, Adobe, los propios exploradores web al imprimir, PDFGuru, etc. 
